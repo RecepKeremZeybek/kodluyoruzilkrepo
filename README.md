@@ -1,2 +1,11 @@
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo 
+# Kodluyoruz İlk Repo
+Kodluyoruz Eğitimi kapsamında oluşturduğum ilk repo.
+İçerisinde bir adat README dosyası ve bir adet de index.html dosyası barındırıyor.
+
+## Installation
+
+https://github.com/RecepKeremZeybek/kodluyoruzilkrepo.git
+
+## Licance 
+MIT
+

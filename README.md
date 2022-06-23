@@ -6,6 +6,10 @@ Kodluyoruz Eğitimi kapsamında oluşturduğum ilk repo.
 
 https://github.com/RecepKeremZeybek/kodluyoruzilkrepo.git
 
+www.patika.dev
+
 ## Licance 
 MIT
+
+
 
